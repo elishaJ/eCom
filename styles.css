@@ -1,0 +1,48 @@
+#homeImage	{
+  /* Full height */
+  height: 100vh !important;
+  width: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0;
+  bottom: 0;
+  /*position: absolute;	*/
+}
+.containers {
+	background: url("image1.jpg");
+	position: relative;
+	text-align: center;
+ 	color: white;
+  	height: 100vh !important;
+  width: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 	
+}
+.top-left {
+  /*width: 500px;*/
+  /*position: absolute;*/
+  /*top: 50%;*/
+  /*left: 50%;*/
+  margin: 0 auto;
+  padding-top: 61vh;
+  font-family: 'Quicksand', sans-serif !important;
+}
+.top-left button{
+	font-size: 16px;
+} 
+#shopNow{
+/*	margin-left: 20px;
+	margin-top: 10px;*/
+}
+.nav-brand{
+	font-family: 'EB Garamond', serif !important; 
+}
+.newSection1{
+	margin: 50px 0 50px 50px;
+}
+.newSection1 h3{
+	font-family: 'Quicksand', sans-serif !important;
+	font-weight: bold;
+}

@@ -47,7 +47,7 @@
 	font-weight: bold;
 }
 .contactBg{
-  background: url("image1.jpg");
+  background: url("contact.svg");
   position: relative;
   text-align: center;
   color: white;
@@ -56,4 +56,8 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; 
+}
+.contactBg .container{
+  margin-top: 50px;
+  color: #000;
 }

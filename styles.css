@@ -46,3 +46,14 @@
 	font-family: 'Quicksand', sans-serif !important;
 	font-weight: bold;
 }
+.contactBg{
+  background: url("image1.jpg");
+  position: relative;
+  text-align: center;
+  color: white;
+  height: 100vh !important;
+  width: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
